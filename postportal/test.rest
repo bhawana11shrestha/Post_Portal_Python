@@ -1,0 +1,17 @@
+POST http://127.0.0.1:8000/login
+Content-Type: application/json
+
+{"username": "elbi2", "password": "1212"}
+
+###
+POST http://127.0.0.1:8000/signup
+Content-Type: application/json
+
+{"username": "elbi3", "password": "asd" ,"email":"elbi@gmail.com"}
+
+###
+GET http://127.0.0.1:8000/test_token
+Content-Type: application/json
+Authorization: Token 9399882a0735981b98b295a88ea4c5dbceb81aa0
+{}
+
