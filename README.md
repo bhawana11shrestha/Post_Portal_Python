@@ -9,7 +9,7 @@ To stat with the project:</br>
 <p>    </p>To create: python -m venv venv</br>
 <p>    </p>To activate(powershell): PEnv\Scripts\activate</br>
 <p>    </p>upgrade pip: PEnv/Scripts/activate</br>
-2. Install Django :cmd: pip install django
+2. Install Django :cmd: pip install django<br>
 3. start project :cmd: django-admin startproject postportal . <br>
 4. 
 
